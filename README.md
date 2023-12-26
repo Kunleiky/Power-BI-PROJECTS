@@ -7,5 +7,3 @@ Feel free to download, learn from, and use them for inspiration.
 
 
 ![Powerbi-logo](https://github.com/Kunleiky/Power-BI-PROJECTS/assets/59319481/e16cc43a-be97-47d5-9b1c-e460e6733f83)
-
-![PBI LOGO](https://github.com/Kunleiky/Power-BI-PROJECTS/assets/59319481/f93937d9-6f0d-494c-a127-290a21abd5df)
